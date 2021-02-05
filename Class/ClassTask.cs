@@ -63,7 +63,7 @@ namespace Class
 
     public class ArrayRectangles
     {
-        private Rectangle[] rectangle_array;
+        private readonly Rectangle[] rectangle_array;
 
         public ArrayRectangles(int n)
         {
