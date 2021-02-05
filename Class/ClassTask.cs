@@ -85,6 +85,7 @@ namespace Class
 
                 rectangle_array[i] = rectangle;
                 added = true;
+                break;
             }
 
             return added;
